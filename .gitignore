@@ -1,0 +1,5 @@
+*.exe
+*.exec
+*outputf.in
+*inputf.in
+**/.DS_Store
